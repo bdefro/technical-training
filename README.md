@@ -2,3 +2,5 @@
 
 The Technical Training of Odoo 16.0 is available on the
 [Tutorial](https://www.odoo.com/documentation/master/developer/howtos/rdtraining.html)
+
+### Starting the courses on 2023-10-15 at 17:14
