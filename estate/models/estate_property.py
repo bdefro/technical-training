@@ -1,6 +1,7 @@
 from odoo import fields, models
 from dateutil.relativedelta import relativedelta
 
+
 class Property(models.Model):
     """ Estate Property
     """

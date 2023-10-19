@@ -8,6 +8,8 @@
         "security/ir.model.access.csv",
         "views/estate_property_view.xml",
         "views/estate_property_menu.xml",
+        "views/estate_property_list.xml",
+        "views/estate_property_form.xml",
     ],
     "installable": True,
     'license': 'LGPL-3',
